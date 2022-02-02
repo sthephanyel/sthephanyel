@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
-<img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"> Skills: HTML
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Skills: HTML
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sthephanyel-silva-pinheiro-a8a875183) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sthephanyel_silva/) 
