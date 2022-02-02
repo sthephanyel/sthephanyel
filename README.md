@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://i.pinimg.com/564x/11/8a/83/118a835336b1e8902278e64d71db1438.jpg"/>
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px"> Skills: HTML,CSS, JS, Bootstrap, Tailwind, React JS, Next Js e Shell Script.
 
