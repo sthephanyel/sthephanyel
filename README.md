@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Olá meu nome é Sthephanyel! XD
-<div style="display:flex;">
+<div style="width:100%;">
  <div style="display:flex;">
   <img src="https://i.pinimg.com/564x/f3/23/6d/f3236d054763a548077b89912fc8e8ff.jpg" style="width:20px;"/>
  </div>
