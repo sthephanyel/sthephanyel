@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.pinimg.com/564x/f3/23/6d/f3236d054763a548077b89912fc8e8ff.jpg"/>
+<img src="https://i.pinimg.com/564x/f3/23/6d/f3236d054763a548077b89912fc8e8ff.jpg" style={display:'flex'}/>
+
 ### Olá meu nome é Sthephanyel! XD
 
 ## Skills <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px"> : </br>
