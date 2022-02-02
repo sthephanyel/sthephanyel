@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-<img src="https://i.pinimg.com/564x/f3/23/6d/f3236d054763a548077b89912fc8e8ff.jpg" style="width:20px;"/>
+<img src="https://i.pinimg.com/564x/7a/37/57/7a3757ced4d067d87e8fe8de70a33ad1.jpg" min-width="400px" max-width="400px" width="400px" align="right"/>
 
 <!--
 **sthephanyel/sthephanyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
