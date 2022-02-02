@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://i.pinimg.com/564x/11/8a/83/118a835336b1e8902278e64d71db1438.jpg"/>
+### Olá meu nome é Sthephanyel👋
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px"> Skills: HTML,CSS, JS, Bootstrap, Tailwind, React JS, Next Js e Shell Script.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="20px">If you have any questions about any of the projects, you can contact me:
 
