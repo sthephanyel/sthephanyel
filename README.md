@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-<img src="https://i.pinimg.com/564x/7a/37/57/7a3757ced4d067d87e8fe8de70a33ad1.jpg" min-width="250px" max-width="250px" width="250px" align="right"/>
+<!-- <img src="https://i.pinimg.com/564x/7a/37/57/7a3757ced4d067d87e8fe8de70a33ad1.jpg" min-width="250px" max-width="250px" width="250px" align="right"/> -->
 
 <!--
 **sthephanyel/sthephanyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20px"/> Shell Script. </br>
 
 
-<!-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="20px"> -->
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="20px">
 Se você tiver alguma dúvida sobre qualquer um dos projetos, você pode entrar em contato comigo:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sthephanyel-silva-pinheiro-a8a875183)
