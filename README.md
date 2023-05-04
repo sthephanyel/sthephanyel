@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### 😄 Olá meu nome é Sthephanyel!
 
 ## Skills <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px"> : </br>
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> HTML  </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" /> CSS </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> JS </br>
@@ -26,6 +27,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px"/> React JS </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20px"/> Next Js </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20px"/> Shell Script. </br>
+</div>
+
 
 
 <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="20px">
