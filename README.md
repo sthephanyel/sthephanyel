@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ### 😄 Olá meu nome é Sthephanyel!
 
-## Skills <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px"> : </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+## Skills <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="20px"> : </br> </br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=transparent) : </br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/> HTML  </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px" /> CSS </br>
