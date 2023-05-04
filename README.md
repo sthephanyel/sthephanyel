@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ## 😄 Olá meu nome é Sthephanyel!
 </br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: inline-block; width: 100%;">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthephanyel&show_icons=true&bg_color=DEG,1E253C,00000000,1E253C&text_color=ffffff&hide_border=true)
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 </br>
 
-<!-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" width="20px"> -->
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
 ### Se você tiver alguma dúvida sobre qualquer um dos projetos, você pode entrar em contato comigo 💬:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sthephanyel-silva-pinheiro-a8a875183)
