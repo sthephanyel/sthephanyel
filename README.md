@@ -40,12 +40,15 @@ Here are some ideas to get you started:
 </br>
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
-### Se você tiver alguma dúvida sobre qualquer um dos projetos, você pode entrar em contato comigo 💬:
+## Se você tiver alguma dúvida sobre qualquer um dos projetos, você pode entrar em contato comigo 💬:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sthephanyel-silva-pinheiro-a8a875183)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sthephanyel_silva/)
 
 </br>
-</br>
-[https://portifolio-project.vercel.app/](https://portifolio-new-next-g18ixvecw-sthephanyel.vercel.app/)</br>
+
+## Meu Portifolio:
+
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://portifolio-new-next.vercel.app/)
+
 
